@@ -1,2 +1,2 @@
 # AES.sample
-JAVA AES and Cypto.AES.js interoperability test
+JAVA AES and Cypto.AES.js interoperability sample (with same iv,salt,key size,iteration count)
